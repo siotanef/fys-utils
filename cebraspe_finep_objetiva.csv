@@ -1,0 +1,700 @@
+,cargo,vaga,posicao,id,name,notafinalnaprovaobjetivadeconhecimentosgerais(P1),notafinalnaprovadeconhecimentosespecíficos(P2),notaprovisórianaprovadiscursiva(P3),total
+0,"analist a, gestão corporativa",ampla,1,10009579,Andre dos Santos Falcao Nascimento,25.0,31.0,9.34,65.34
+1,"analist a, gestão corporativa",ampla,2,10013709,Ana Laura Cabral de Farias,22.0,34.0,8.38,64.38
+2,"analist a, gestão corporativa",ampla,3,10001419,Alexandre Sales Guerra,22.0,35.0,6.82,63.82
+3,"analist a, gestão corporativa",ampla,4,10008659,Andre Santana Ramos de Souza Marques,25.0,30.0,8.01,63.01
+4,"analist a, gestão corporativa",ampla,5,10012796,Andre Luis Moreti Franca,26.0,29.0,7.84,62.84
+5,"analist a, gestão corporativa",ampla,6,10001645,Alexandre Baeta de Souza,24.0,31.0,7.41,62.41
+6,"analist a, gestão corporativa",negro,1,10002278,Caroli na Monteiro Coelho,26.0,32.0,9.35,67.35
+7,"analist a, gestão corporativa",negro,2,10012634,Graciele Pereira Guedes,24.0,33.0,9.39,66.39
+8,"analist a, gestão corporativa",negro,3,10001176,Joao Magno do Patrocinio Sales,24.0,34.0,7.87,65.87
+9,"analist a, gestão corporativa",negro,4,10013025,Daniel dos Santos de Araujo,23.0,34.0,8.75,65.75
+10,"analist a, gestão corporativa",negro,5,10003754,Matheus Fernando Augusto Mansoldo,25.0,32.0,8.4,65.4
+11,"analist a, gestão corporativa",negro,6,10009912,Carlos Eduardo Campelo dos Santos,23.0,33.0,8.63,64.63
+12,"analist a, gestão corporativa",negro,7,10010655,Jaquelline Barros de Oliveira,22.0,34.0,8.01,64.01
+13,"analist a, gestão corporativa",negro,8,10001039,Paulo Alves de Santana Neto,21.0,34.0,8.85,63.85
+14,"analist a, gestão corporativa",negro,9,10008040,Adriano Rodrigues Silva Costa,25.0,29.0,9.77,63.77
+15,"analist a, gestão corporativa",negro,10,10004443,Tardelly Santos Cassemiro,21.0,35.0,7.74,63.74
+16,"analist a, gestão corporativa",negro,11,10005369,Rulio Iglessia Rodrigues da Costa,21.0,35.0,7.09,63.09
+17,"analist a, gestão corporativa",negro,12,10006999,Leticia Cristina Costa Eurico,23.0,31.0,8.54,62.54
+18,"analist a, gestão corporativa",negro,13,10007830,Jhonatan Thiago Rodrigues da Silva,20.0,33.0,9.47,62.47
+19,"analist a, gestão corporativa",negro,14,10009239,Lucas da Silva Vieira,24.0,31.0,7.03,62.03
+20,"analist a, gestão corporativa",negro,15,10011584,Renata Cunha da Silva,22.0,30.0,9.86,61.86
+21,"analist a, gestão corporativa",negro,16,10004923,Joao Carlos Silva de Assis,26.0,28.0,7.61,61.61
+22,"analist a, gestão corporativa",negro,17,10012242,Kelion Junio Reis Oliveira,22.0,32.0,7.49,61.49
+23,"analist a, gestão corporativa",negro,18,10014615,Magno dos Santos Barbosa,24.0,28.0,9.46,61.46
+24,"analist a, gestão corporativa",negro,19,10002494,Wander Inocencio dos Santos,22.0,31.0,8.46,61.46
+25,"analist a, gestão corporativa",negro,20,10002035,Jessika Soares dos Santos Raimundo,21.0,31.0,9.42,61.42
+26,"analist a, gestão corporativa",negro,21,10007624,Leonnardo Alexandre Souza Alves,23.0,31.0,7.4,61.4
+27,"analist a, gestão corporativa",negro,22,10003364,La is Campelo Correa Torres,21.0,32.0,8.13,61.13
+28,"analist a, gestão corporativa",negro,23,10003229,Victor Solon de Brito de Souza,23.0,29.0,8.45,60.45
+29,"analist a, gestão corporativa",negro,24,10009513,Angelo Sousa Silva Freire,26.0,28.0,6.41,60.41
+30,"analist a, gestão corporativa",negro,25,10006918,Glesse Custodio Pinto,20.0,32.0,8.03,60.03
+31,"analist a, gestão corporativa",negro,26,10003836,Andre Fonseca da Guia,20.0,32.0,7.56,59.56
+32,"analist a, gestão corporativa",negro,27,10003509,Fabiano Oliveira de Souza,21.0,33.0,5.56,59.56
+33,"analist a, gestão corporativa",negro,28,10009781,Milene Salles de Oliveira,23.0,31.0,5.46,59.46
+34,"analist a, gestão corporativa",negro,29,10007041,Diego Santos Martins,20.0,32.0,7.38,59.38
+35,"analist a, gestão corporativa",negro,30,10005124,Diego Fernandes da Silva,25.0,27.0,7.28,59.28
+36,"analist a, gestão corporativa",negro,31,10001795,Renan Medrado Pacheco,22.0,30.0,6.99,58.99
+37,"analist a, gestão corporativa",negro,32,10014097,Luis Gustavo Freita s Gelati,23.0,29.0,6.32,58.32
+38,"analist a, gestão corporativa",pcd,1,10002966,Marvin Cardoso Peruzzolo,26.0,33.0,9.9,68.9
+39,"analist a, gestão corporativa",pcd,2,10004480,Edu ardo Jufra Oliveira Tiefel,27.0,31.0,9.49,67.49
+40,"analist a, gestão corporativa",pcd,3,10005906,Clarissa Nascimento Pedroso,27.0,30.0,9.97,66.97
+41,"analist a, gestão corporativa",pcd,4,10011862,Patricia Reynozo Pignone,25.0,29.0,7.11,61.11
+42,"analist a, gestão corporativa",pcd,5,10001490,Thales Alessandro de Carvalho,21.0,29.0,9.77,59.77
+43,"analist a, gestão corporativa",pcd,6,10006588,Geiza dos Santos Sa,20.0,33.0,6.69,59.69
+44,"analist a, gestão corporativa",pcd,7,10009781,Milene Salles de Oliveira,23.0,31.0,5.46,59.46
+45,"analist a, gestão corporativa",pcd,8,10008866,Diogenes Fontenele Teixeira Bento,20.0,31.0,7.85,58.85
+46,"analist a, gestão corporativa",pcd,9,10009852,Angelo Silva do Couto Pitta,25.0,26.0,6.38,57.38
+47,"analist a, gestão corporativa",pcd,10,10013022,Guilherme Capinzaiki Carboni,20.0,28.0,8.85,56.85
+48,"analist a, gestão corporativa",pcd,11,10011382,Danilo Ferian Antunes,25.0,25.0,6.83,56.83
+49,"analist a, gestão corporativa",pcd,12,10009624,Elias Ponti da Silva,21.0,28.0,7.2,56.2
+50,"analist a, gestão corporativa",pcd,13,10005109,Mauricio Jonas Weirich Urban,20.0,29.0,6.71,55.71
+51,"analist a, gestão corporativa",pcd,14,10003066,Fernando Gastal Ripoll,17.0,29.0,8.75,54.75
+52,"analist a, gestão corporativa",pcd,15,10012232,M arcelo Araujo de Oliveira,20.0,26.0,8.37,54.37
+53,"analist a, gestão corporativa",pcd,16,10000706,Rafael Zanato de Carvalho,19.0,26.0,9.14,54.14
+54,"analist a, gestão corporativa",pcd,17,10001840,Natassja Oliveira Mene zes,22.0,27.0,4.88,53.88
+55,"analist a, gestão corporativa",pcd,18,10005164,Joao Martins Ribeiro,19.0,28.0,6.83,53.83
+56,"analist a, gestão corporativa",pcd,19,10007101,Rodrigo Francisco do Nascimento,21.0,26.0,6.22,53.22
+57,"analist a, gestão corporativa",pcd,20,10000138,Genilton dos Reis Silva,16.0,28.0,8.96,52.96
+58,"analist a, gestão corporativa",pcd,21,10013362,Ianelli Marcela Matos Oliveira,18.0,26.0,8.56,52.56
+59,"analist a, gestão corporativa",pcd,22,10005498,Antonio Gomes de Bastos Junior,19.0,28.0,4.52,51.52
+60,"analist a, gestão corporativa",pcd,23,10007813,Jose Valter Sampaio Junior,19.0,26.0,5.23,50.23
+61,"analist a, gestão corporativa",pcd,24,10010616,Renan Caldas Correia,17.0,28.0,5.2,50.2
+62,"analist a, tecno logia da informação, software",ampla,1,10008620,Leonardo Della Justina do Nascimento,27.0,33.0,9.18,69.18
+63,"analist a, tecno logia da informação, software",ampla,2,10003873,Igor Guimaraes Dias,25.0,35.0,8.1,68.1
+64,"analist a, tecno logia da informação, software",ampla,3,10000805,Bruno Rodrigues Lima,23.0,34.0,9.77,66.77
+65,"analist a, tecno logia da informação, software",ampla,4,10006021,Victor Freixinho Nun es,24.0,34.0,8.3,66.3
+66,"analist a, tecno logia da informação, software",ampla,5,10000276,Euse bio Lopes de Sousa Neto,24.0,35.0,6.59,65.59
+67,"analist a, tecno logia da informação, software",ampla,6,10005465,Rafa el Kendy Arakaki,26.0,33.0,5.91,64.91
+68,"analist a, tecno logia da informação, software",ampla,7,10000304,Vinicius de Santanna Salustiano,26.0,31.0,7.88,64.88
+69,"analist a, tecno logia da informação, software",ampla,8,10005433,Alexandre da Silva Werdan,26.0,31.0,7.42,64.42
+70,"analist a, tecno logia da informação, software",ampla,9,10004925,Andre Felipe de Sousa Almeida,25.0,34.0,4.76,63.76
+71,"analist a, tecno logia da informação, software",ampla,10,10000537,Danniel Rocha do Nascimento,25.0,30.0,8.6,63.6
+72,"analist a, tecno logia da informação, software",ampla,11,10001789,Luiza Diniz e Castro,25.0,32.0,6.56,63.56
+73,"analist a, tecno logia da informação, software",ampla,12,10010035,Andre Luis Sousa da Silva,24.0,32.0,7.41,63.41
+74,"analist a, tecno logia da informação, software",ampla,13,10001369,Willian Alberto Lauber,23.0,32.0,8.39,63.39
+75,"analist a, tecno logia da informação, software",ampla,14,10011339,Fernando Tamberlini Alves,23.0,34.0,6.31,63.31
+76,"analist a, tecno logia da informação, software",ampla,15,10014013,Bruno Mayerle Leite,23.0,32.0,8.26,63.26
+77,"analist a, tecno logia da informação, software",ampla,16,10001270,Luiz Henrique Tuttman Cobucci,24.0,32.0,7.09,63.09
+78,"analist a, tecno logia da informação, software",ampla,17,10005316,Nina Venancio Raminelli,24.0,31.0,7.8,62.8
+79,"analist a, tecno logia da informação, software",ampla,18,10000008,Mariana Andressa Luna Pinheiro,23.0,31.0,8.77,62.77
+80,"analist a, tecno logia da informação, software",ampla,19,10001794,Marcos Vinicius Prescendo Tonin,21.0,32.0,9.36,62.36
+81,"analist a, tecno logia da informação, software",ampla,20,10010878,Rafael Araujo Gomes da Silva,23.0,31.0,8.35,62.35
+82,"analist a, tecno logia da informação, software",ampla,21,10008595,Michel Machado de Moraes,23.0,30.0,9.25,62.25
+83,"analist a, tecno logia da informação, software",ampla,22,10003106,Winstein Caldeira Martins,22.0,31.0,9.08,62.08
+84,"analist a, tecno logia da informação, software",ampla,23,10011834,Valdi Ferreira do Nascimento Junior,24.0,31.0,7.07,62.07
+85,"analist a, tecno logia da informação, software",ampla,24,10006111,Vinicius Sakai Roque,21.0,34.0,7.05,62.05
+86,"analist a, tecno logia da informação, software",ampla,25,10005462,Fabio Yoshio Siotane,26.0,29.0,6.99,61.99
+87,"analist a, tecno logia da informação, software",ampla,26,10001259,Edson Silvio de Souza Feio,25.0,29.0,7.9,61.9
+88,"analist a, tecno logia da informação, software",ampla,27,10011361,Luiz Claudio Pereira Doria,22.0,33.0,6.85,61.85
+89,"analist a, tecno logia da informação, software",ampla,28,10010352,Lincoln Lima Souza Canabrava Mota,22.0,33.0,6.53,61.53
+90,"analist a, tecno logia da informação, software",ampla,29,10000021,Fernando Augusto da Silva,25.0,28.0,8.12,61.12
+91,"analist a, tecno logia da informação, software",ampla,30,10003442,Bernardo Sobral Werneck,25.0,28.0,8.1,61.1
+92,"analist a, tecno logia da informação, software",ampla,31,10001930,Jonas Sousa Leandro,23.0,32.0,5.98,60.98
+93,"analist a, tecno logia da informação, software",ampla,32,10002139,Gus tavo Guerreiro Basilio Costa,21.0,33.0,6.8,60.8
+94,"analist a, tecno logia da informação, software",ampla,33,10012453,Dailson Vago Lima,23.0,30.0,7.63,60.63
+95,"analist a, tecno logia da informação, software",ampla,34,10009394,Flavio Guimaraes Chaves,21.0,33.0,6.58,60.58
+96,"analist a, tecno logia da informação, software",ampla,35,10009818,Joao de Santana Brito Junior,24.0,31.0,5.57,60.57
+97,"analist a, tecno logia da informação, software",ampla,36,10005656,Ana Carolina Soares e Soares,21.0,32.0,7.51,60.51
+98,"analist a, tecno logia da informação, software",ampla,37,10008597,Filipe Barbosa Lima,23.0,30.0,7.41,60.41
+99,"analist a, tecno logia da informação, software",ampla,38,10009186,Thiago Pires Lemos,24.0,29.0,7.15,60.15
+100,"analist a, tecno logia da informação, software",ampla,39,10005091,Jose Joao Ferreia Machado,20.0,33.0,6.87,59.87
+101,"analist a, tecno logia da informação, software",ampla,40,10010686,Emerson Perez,27.0,27.0,5.79,59.79
+102,"analist a, tecno logia da informação, software",ampla,41,10004548,Renata Emanuelle Vasconcellos Anhon,22.0,31.0,6.79,59.79
+103,"analist a, tecno logia da informação, software",ampla,42,10003204,Giovane de Oliveira Torres,22.0,31.0,6.4,59.4
+104,"analist a, tecno logia da informação, software",ampla,43,10010156,Flavio Vicentini Junior,23.0,32.0,4.31,59.31
+105,"analist a, tecno logia da informação, software",ampla,44,10013169,Andreia de Almeida Fonseca,23.0,31.0,4.98,58.98
+106,"analist a, tecno logia da informação, software",ampla,45,10005816,Esdras Lucas Ramos Martins,23.0,30.0,5.72,58.72
+107,"analist a, tecno logia da informação, software",ampla,46,10008052,Fernando Mauro Buleo Barbosa,24.0,29.0,5.63,58.63
+108,"analist a, tecno logia da informação, software",ampla,47,10011693,Igor da Silva Coelho,20.0,34.0,4.42,58.42
+109,"analist a, tecno logia da informação, software",ampla,48,10002591,Marcos Roberto Gomes Albuquerque Segundo,23.0,30.0,4.9,57.9
+110,"analist a, tecno logia da informação, software",ampla,49,10000104,Diogo da Silva Ferreira,21.0,32.0,4.68,57.68
+111,"analist a, tecno logia da informação, software",ampla,50,10009451,Zania Lages do Carmo,23.0,31.0,3.42,57.42
+112,"analist a, tecno logia da informação, software",negro,1,10004925,Andre Felipe de Sousa Almeida,25.0,34.0,4.76,63.76
+113,"analist a, tecno logia da informação, software",negro,2,10010352,Lincoln Lima Souza Canabrava Mota,22.0,33.0,6.53,61.53
+114,"analist a, tecno logia da informação, software",negro,3,10009818,Joao de Santana Brito Junior,24.0,31.0,5.57,60.57
+115,"analist a, tecno logia da informação, software",negro,4,10001873,Caio Cristhyan dos Santos Carvalho Silva,20.0,30.0,8.55,58.55
+116,"analist a, tecno logia da informação, software",negro,5,10007637,Marcondes Pereira de Melo,18.0,32.0,7.81,57.81
+117,"analist a, tecno logia da informação, software",negro,6,10005524,Leonardo da Silva Moreira,20.0,30.0,6.57,56.57
+118,"analist a, tecno logia da informação, software",negro,7,10010368,Davi Martins Vieira,19.0,28.0,8.65,55.65
+119,"analist a, tecno logia da informação, software",negro,8,10009703,Anderson Alves Pereira,18.0,31.0,5.99,54.99
+120,"analist a, tecno logia da informação, software",negro,9,10010419,Leandro Jesus Sousa,19.0,28.0,7.78,54.78
+121,"analist a, tecno logia da informação, software",negro,10,10012018,Luis Eduardo Alkmin La Torre,20.0,27.0,7.72,54.72
+122,"analist a, tecno logia da informação, software",negro,11,10007254,Mauricio Nova Silva,20.0,29.0,5.69,54.69
+123,"analist a, tecno logia da informação, software",negro,12,10004361,Edso n Melo da Costa,19.0,28.0,7.67,54.67
+124,"analist a, tecno logia da informação, software",negro,13,10011432,Joao Custodio de Faria Filho,22.0,25.0,6.63,53.63
+125,"analist a, tecno logia da informação, software",pcd,1,10006578,Marcos Luiz Lins Filho,21.0,30.0,8.16,59.16
+126,"analist a, tecno logia da informação, software",pcd,2,10008665,Gabriel Baliza Rocha,19.0,30.0,4.88,53.88
+127,"analist a, tecno logia da informação, software",pcd,3,10002686,Helder  Manoel Lima e Silva,20.0,28.0,5.57,53.57
+128,"analist a, tecno logia da informação, software",pcd,4,10007712,Mariana Dantas dos Santos,20.0,27.0,3.86,50.86
+129,"analist a, tecno logia da informação, software",pcd,5,10006292,Claudio Reis,17.0,27.0,6.51,50.51
+130,"analist a, tecno logia da informação, software",pcd,6,10000206,Joao Roberto de Albuquerque Guimaraes,19.0,25.0,5.91,49.91
+131,"analist a, tecno logia da informação, software",pcd,7,10003091,Celia Emilly Ribeiro Silva,20.0,25.0,4.72,49.72
+132,"analist a, tecno logia da informação, software",pcd,8,10000977,Claudio Augusto Ribeiro de Marco,17.0,23.0,8.1,48.1
+133,"analist a, tecno logia da informação, software",pcd,9,10000889,Betolvem Cristhian Lucio da Silva,19.0,24.0,4.69,47.69
+134,"analist a, tecno logia da informação, software",pcd,10,10001548,Pedro Pinheiro Garcia,16.0,24.0,6.97,46.97
+135,"analist a, tecno logia da informação, software",pcd,11,10000091,Marinita Eliara Komm ers,17.0,22.0,7.41,46.41
+136,"analist a, tecno logia da informação, software",pcd,12,10001508,Rodrigo Mendonca Mota Fernandes,19.0,20.0,6.55,45.55
+137,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,1,10005406,Larissa Boechat Chequer,27.0,32.0,8.92,67.92
+138,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,2,10003493,Guilherme de Queiroz Stein,25.0,34.0,8.66,67.66
+139,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,3,10001189,Gabriel de Alencar Wasilewski,26.0,31.0,7.74,64.74
+140,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,4,10007659,Ludi Ferreira de Avelar,26.0,29.0,9.56,64.56
+141,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,5,10011322,Fabio Campos Barcelos,27.0,30.0,7.28,64.28
+142,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,6,10000019,Juliane Resges Orives,27.0,28.0,8.8,63.8
+143,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,7,10002084,Jorge Andre Sevillis Almeida,24.0,30.0,9.6,63.6
+144,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,8,10001044,Catarina Medeiros Carneiro,23.0,31.0,9.59,63.59
+145,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,9,10005272,Izabelly Cassia May,27.0,27.0,9.48,63.48
+146,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,10,10012584,Gustavo Braga Alcantara,25.0,30.0,7.91,62.91
+147,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,11,10012182,Isabella Silvano Vieira Alves,23.0,31.0,8.88,62.88
+148,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,12,10005576,Livia Vieira  Villela,25.0,29.0,8.77,62.77
+149,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,13,10014145,Beatriz Pereira Cunha,25.0,29.0,8.53,62.53
+150,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,14,10014513,Gisele Moraes Marinho,25.0,30.0,7.06,62.06
+151,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,15,10001694,Felipe Portela Bezerra,25.0,28.0,8.98,61.98
+152,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,16,10013590,Leticia di Maio Tancredi,26.0,27.0,8.85,61.85
+153,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,17,10005979,Andrea Waisenberg,25.0,27.0,9.53,61.53
+154,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,18,10009607,Joao Victor Nunes Oliveira,23.0,30.0,8.53,61.53
+155,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,19,10003742,Ana Clara Pova Mendes,25.0,27.0,9.22,61.22
+156,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,20,10008877,Francine Lopes Pinheiro,26.0,27.0,8.08,61.08
+157,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,21,10001048,Elisa Addor Taves,26.0,26.0,8.95,60.95
+158,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,22,10010515,Gabriel Miranda Serrao,25.0,28.0,7.88,60.88
+159,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,23,10007349,Lais Henriques de Mattos,21.0,31.0,8.84,60.84
+160,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,24,10006246,Guilherme Wiggers de Almeida,23.0,28.0,9.83,60.83
+161,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,25,10009037,Aline Tavares da Silva Barreto,24.0,29.0,7.67,60.67
+162,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,26,10011241,Flavio Raposo de Almeida,26.0,25.0,9.29,60.29
+163,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,27,10010933,Marcos Macedo Merhy,25.0,27.0,8.23,60.23
+164,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,28,10011360,Frederico Ferreira Alves Pinto,24.0,32.0,4.18,60.18
+165,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,29,10005415,Edgard Ortiz Rinaldi,24.0,29.0,7.1,60.1
+166,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,30,10002851,Danieli Biagi Vilela,23.0,30.0,7.09,60.09
+167,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,31,10010544,Joao Villela de Faria,23.0,28.0,9.05,60.05
+168,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,32,10004173,Fellipe Macedo Soares Tavares,26.0,26.0,7.94,59.94
+169,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,33,10006311,Gilberto Mohr Correa,21.0,30.0,8.88,59.88
+170,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,34,10012749,Kelson Gomes Santana,23.0,30.0,6.82,59.82
+171,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,35,10005023,Douglas Oliveira de Freitas,24.0,29.0,6.63,59.63
+172,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,36,10009029,Felipe Rodrigues Dias Vogas,25.0,27.0,7.59,59.59
+173,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,37,10005298,Larissa Camila Torres Pinto,25.0,27.0,7.4,59.4
+174,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,38,10000749,Leticia Schneider Fanka,22.0,29.0,8.34,59.34
+175,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,39,10009701,Felipe Carlos B astos,26.0,25.0,8.29,59.29
+176,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,40,10000992,Anita Schulte Mafra,26.0,25.0,8.19,59.19
+177,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,41,10007809,Daniel de Ber redo Viana,20.0,31.0,8.12,59.12
+178,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,42,10000398,Elisa de Sousa Ribeiro Pinchemel,23.0,28.0,8.07,59.07
+179,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,43,10007302,Ana Maria Amorim Correia,25.0,26.0,7.94,58.94
+180,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,44,10009527,Gustavo Rafael de Albuquerque Santos,23.0,26.0,9.9,58.9
+181,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,45,10006595,Davi Mendes,24.0,26.0,8.83,58.83
+182,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,46,10003570,Gabriel Shinji Kumm Kuriyama,23.0,28.0,7.78,58.78
+183,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,47,10013863,Barbara Calabria Tinoco,20.0,31.0,7.7,58.7
+184,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,48,10006583,Juliana Santos Siqueira,25.0,25.0,8.65,58.65
+185,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,49,10005824,Bruno Montandon Noronha Barros,23.0,27.0,8.6,58.6
+186,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,50,10000864,Caroline Ribeiro Carneiro,23.0,26.0,9.39,58.39
+187,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,51,10005636,Aureo Ig or Wanderley Ramos,21.0,29.0,8.37,58.37
+188,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,52,10006781,Felipe da Cunha Siqueira,23.0,28.0,7.37,58.37
+189,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,53,10000677,Alcides Bruno de Oliveira Lopes,22.0,28.0,8.33,58.33
+190,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,54,10000207,Eder S aulo de Freitas Galindo,25.0,27.0,6.21,58.21
+191,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,55,10010574,Igor Ferrari Alves,25.0,26.0,7.19,58.19
+192,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,56,10013733,Felipe Kox de Lima Fernandes,24.0,25.0,9.11,58.11
+193,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,57,10009149,Adalberto Gregorio Back,23.0,27.0,8.07,58.07
+194,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,58,10010466,Leandro Tomaz Veiga,25.0,25.0,8.03,58.03
+195,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,59,10007308,Luiza Naiara Siqueira do Prado,27.0,21.0,9.93,57.93
+196,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,60,10001498,Lucas Moura Vieira,20.0,30.0,7.85,57.85
+197,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,61,10001607,Bruno Xavier Rodrigues,21.0,29.0,7.79,57.79
+198,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,62,10002913,Luis Guilherme Farias Alves,21.0,28.0,8.76,57.76
+199,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,63,10005781,Ligia Cosmo Cantarelli,22.0,26.0,9.68,57.68
+200,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,64,10010468,Lairton Souza Borja,27.0,23.0,7.65,57.65
+201,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,65,10003905,Maria Carolina Chalegre Touceira,18.0,30.0,9.53,57.53
+202,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,66,10009601,Daniel Couto Mittelman,22.0,31.0,4.52,57.52
+203,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,67,10008677,Genis Rocha Nogueira,27.0,25.0,5.41,57.41
+204,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,68,10006080,Daniela de Santana Falcao,23.0,26.0,8.4,57.4
+205,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,69,10002968,Bruna Ribeiro Moreira,23.0,27.0,7.39,57.39
+206,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,70,10008012,Leonardo Glavina da Cruz,22.0,27.0,8.26,57.26
+207,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,71,10009199,Juli ane Borba Minotto,25.0,25.0,7.23,57.23
+208,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,72,10000220,Igor Matos Bueno,22.0,26.0,9.09,57.09
+209,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,73,10007711,Fernanda Torres Lima,20.0,29.0,8.01,57.01
+210,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,74,10010624,Anna Carolina Venturini,23.0,26.0,8.0,57.0
+211,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,75,10008999,Ana Carolina Leal de Oliveira,23.0,25.0,8.95,56.95
+212,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,76,10013092,Marcelle Candido Cordeiro,23.0,25.0,8.95,56.95
+213,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,77,10000378,Ellen Elsie Silva do Nascimento,21.0,26.0,9.9,56.9
+214,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,78,10010032,Gustavo da Silva Costa,24.0,23.0,9.87,56.87
+215,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,79,10009054,Lidiane de Almeida Modesto,22.0,27.0,7.87,56.87
+216,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,80,10010171,Larissa Rodrigues Gome s,22.0,26.0,8.82,56.82
+217,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,81,10008921,Madellon Melo de Assis,23.0,26.0,7.8,56.8
+218,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,82,10007501,Juliano de Oliveira Silveira,21.0,27.0,8.54,56.54
+219,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,83,10004821,Dimy Nanclares Fernandes Sanches,25.0,25.0,6.5,56.5
+220,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,84,10006174,Gabriel Natale Pinto de Almeida,25.0,23.0,8.5,56.5
+221,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,85,10001560,Filipe Antonio dos Santos Viegas Ribeiro,26.0,25.0,5.46,56.46
+222,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,86,10005967,Adriana Barbosa da Silva,22.0,26.0,8.43,56.43
+223,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,87,10003656,Joao Gabriel Milare Manzolillo,25.0,24.0,7.43,56.43
+224,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,88,10001764,Brenno Buarque de Lima,24.0,24.0,8.42,56.42
+225,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,89,10001229,Fernanda Christina Goncalves Sobrinho,25.0,23.0,8.39,56.39
+226,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,90,10007067,Aline de Luna Marques,25.0,23.0,8.3,56.3
+227,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,91,10007306,Francisco Carlos Rocha Fernandes,23.0,25.0,8.29,56.29
+228,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,92,10001968,Joao Augusto Muniz Videira,21.0,28.0,7.28,56.28
+229,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,93,10009697,Ana Caroline de Oliveira Junqueira,24.0,24.0,8.17,56.17
+230,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,94,10012510,Bruno Milhomem Pilati Rodrigues,22.0,27.0,7.12,56.12
+231,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,95,10005642,Lorena Abbas da Silva,21.0,27.0,7.96,55.96
+232,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,96,10007680,Juliana Carvalho da Silva,22.0,26.0,7.91,55.91
+233,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,97,10010630,Gabriel Caymmi Vilela Ferreira,21.0,25.0,9.9,55.9
+234,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,98,10005922,Heitor Akio Kimura,22.0,25.0,8.9,55.9
+235,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,99,10000291,Ludmila Alvim Gomes Pinho Giacon e,24.0,22.0,9.9,55.9
+236,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,100,10009067,Maria Christina Vilar Torres,24.0,24.0,7.89,55.89
+237,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,101,10010899,Marcelo Duarte Silva,19.0,30.0,6.86,55.86
+238,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,102,10002464,Camila Alves Lima Gomes,23.0,24.0,8.83,55.83
+239,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,103,10002825,Carlos Alberto Fer reira da Silva,24.0,23.0,8.82,55.82
+240,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,104,10010215,Beatris Pereira de Lima,21.0,26.0,8.81,55.81
+241,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,105,10002778,Maiko Luis Tonini,20.0,27.0,8.79,55.79
+242,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,106,10014006,Lorena de Oliveira Fonseca,23.0,26.0,6.76,55.76
+243,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,107,10012531,Lavinia Carla Santos Ataide de Vasconcelos,21.0,27.0,7.7,55.7
+244,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,108,10008636,Luisa Alem Ribeiro,24.0,23.0,8.68,55.68
+245,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,109,10000824,Emanoel Lima Martins,20.0,26.0,9.61,55.61
+246,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,110,10010138,Kamila Lima do Nascimento,23.0,26.0,6.59,55.59
+247,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,111,10005450,Gustavo Andre Pereir a Guimaraes,21.0,27.0,7.58,55.58
+248,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,112,10000372,Leonardo Gomes Kretzer,22.0,26.0,7.32,55.32
+249,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,113,10012378,Glaucia Cristina Pavao,18.0,29.0,8.28,55.28
+250,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,114,10009302,Debora Leite de Oliveira,23.0,24.0,8.17,55.17
+251,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,115,10002938,Ariel Costa Tozzi,23.0,26.0,6.11,55.11
+252,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,116,10005969,Eduardo Bayer Knopman,19.0,29.0,7.08,55.08
+253,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,117,10012615,Jose Raphael Olegario Franca,18.0,30.0,7.05,55.05
+254,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,118,10000368,Alexandre Cury Schmid,26.0,25.0,4.03,55.03
+255,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,119,10007122,Luan de Sousa Guimaraes,23.0,24.0,8.01,55.01
+256,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,120,10001595,Luciana da Luz Silva,21.0,25.0,8.98,54.98
+257,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,121,10011806,Amanda Spinola da Rocha,23.0,25.0,6.94,54.94
+258,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,122,10004874,A na Carolina Cunha de Assis,24.0,25.0,5.88,54.88
+259,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,123,10010226,Beatriz Dal Pont Duarte,23.0,24.0,7.81,54.81
+260,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,124,10005439,Julio Cordeiro de Souza,23.0,27.0,4.79,54.79
+261,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,125,10006511,Herywelton Antonio Vilela da Mata,21.0,28.0,5.78,54.78
+262,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,126,10009369,Jean Josias dos Santos Figueiredo,21.0,27.0,6.73,54.73
+263,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,127,10003312,Ana Carolina Pinto Xavier,22.0,26.0,6.68,54.68
+264,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,128,10001781,Cleiton Barroso Bittencourt,19.0,27.0,8.58,54.58
+265,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,129,10004133,Julia de Souza Lima,22.0,25.0,7.52,54.52
+266,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,130,10001713,Andrea Auar de Pinho Moraes,24.0,22.0,8.5,54.5
+267,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,131,10008989,Bruno Fontes Dias Coelho,19.0,28.0,7.46,54.46
+268,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,132,10008397,Andressa Ferreira L ima,22.0,25.0,7.43,54.43
+269,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,133,10009272,Caroline Giusti de Araujo,22.0,25.0,7.41,54.41
+270,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,134,10012537,Aluizio Heleno Ribeiro Junior,20.0,26.0,8.36,54.36
+271,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,135,10006300,Gustavo Kolmar Campos de Souza,24.0,23.0,7.35,54.35
+272,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,136,10004739,Ariany Rosa Goncalves,23.0,23.0,8.33,54.33
+273,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,137,10005284,Eduardo Bertoni da Fonseca,20.0,26.0,8.25,54.25
+274,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,138,10000340,Elaine Cristina Loureiro da Silva Donady,21.0,25.0,8.23,54.23
+275,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,139,10011248,Daniel Seidenberger Torres,25.0,23.0,6.2,54.2
+276,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,140,10002670,Camila da Costa Matheus,22.0,25.0,7.18,54.18
+277,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,141,10012770,Daniel Lombelo Teixeira Junior,24.0,23.0,7.17,54.17
+278,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,142,10013648,Evelin dos Santos Pereira,25.0,24.0,5.17,54.17
+279,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,143,10004232,Keliany da Silva Lima Oliveira,22.0,24.0,8.09,54.09
+280,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,144,10002323,Ana Larronda Asti,21.0,27.0,6.06,54.06
+281,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,145,10011146,Fernanda Craveir o Franco,22.0,24.0,8.03,54.03
+282,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,146,10013594,Eduardo Fontes Silveira,21.0,25.0,8.01,54.01
+283,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,147,10012363,Ana Maria de Oliveira Yamakami,21.0,26.0,7.0,54.0
+284,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,148,10001481,Caroline Maiara de Jesus,21.0,25.0,8.0,54.0
+285,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,149,10013068,Luiz Gustavo Silva de Oliveira,18.0,29.0,6.96,53.96
+286,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,150,10009644,Diego Carvalho da Silva,23.0,24.0,6.79,53.79
+287,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,151,10005471,Gabriela Nunes Ar ona,25.0,22.0,6.66,53.66
+288,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,152,10002666,Ana Maria de Lima Terra,21.0,26.0,6.64,53.64
+289,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,153,10001853,Marcelo Magno Rocha Nasci mento,21.0,25.0,7.63,53.63
+290,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,154,10008990,Fabiana Azevedo Delmondes,23.0,27.0,3.55,53.55
+291,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,155,10005849,Flavia Schmidt de Andrade Lima,21.0,27.0,5.33,53.33
+292,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,156,10002051,Andressa Bisotto Peretti,23.0,23.0,7.23,53.23
+293,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,157,10002471,Camila dos Santos de Barros,20.0,27.0,6.23,53.23
+294,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,158,10011000,Daniel de Moraes Rodrigues,22.0,24.0,7.23,53.23
+295,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,159,10007803,Jonatas Silva Pereira,24.0,22.0,7.19,53.19
+296,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,160,10005868,Darlan Lingnau,21.0,25.0,7.12,53.12
+297,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,161,10004032,Larissa de Souza Pereira,21.0,25.0,7.03,53.03
+298,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,162,10011136,Carlos Eduardo Stefano,24.0,25.0,3.99,52.99
+299,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,163,10002344,Bruna Cristina Oliveira,22.0,24.0,6.9,52.9
+300,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,164,10013790,Larissa La Poente de Castro Carvalho,22.0,24.0,6.9,52.9
+301,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,165,10009925,Barbara Pereira,22.0,25.0,5.89,52.89
+302,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,166,10013859,Breno Fraga Miranda e Silva,21.0,25.0,6.88,52.88
+303,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,167,10003375,Iara Grotz Moreira,21.0,25.0,6.86,52.86
+304,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,168,10003377,Joao Monteiro Neto,22.0,24.0,6.85,52.85
+305,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,169,10004736,Jean Carlos de Melo Favaro,22.0,25.0,5.59,52.59
+306,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,170,10004885,Gabrielle Regazzi Nogueira Caetano,24.0,22.0,6.51,52.51
+307,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,171,10005051,Felipe Soria,22.0,24.0,6.29,52.29
+308,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,172,10002500,Claudio F C Silva,21.0,25.0,6.26,52.26
+309,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,173,10014413,Flavia Brandao Costa Vaz,21.0,25.0,6.26,52.26
+310,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,174,10000612,Aline Machado Lourenco,23.0,24.0,5.15,52.15
+311,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,175,10011280,Bruna Mota Terra,23.0,23.0,6.13,52.13
+312,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,176,10006155,Gilson Nunes de Paula,23.0,23.0,5.86,51.86
+313,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,177,10002296,Marcos Vinicius de Lima Coelho,21.0,25.0,5.68,51.68
+314,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,178,10010496,Fernanda dos Reis Rougemont,22.0,24.0,5.47,51.47
+315,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,179,10005176,Danilo Sakay,23.0,23.0,5.38,51.38
+316,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,180,10005328,Luan Fonseca de Medeiros,25.0,21.0,5.23,51.23
+317,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,181,10005633,Iago Luiz da Silva,20.0,26.0,5.14,51.14
+318,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,182,10007314,Lucas Silva Carvalho,19.0,27.0,5.13,51.13
+319,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,183,10012591,Felipe de Lemos,22.0,24.0,4.83,50.83
+320,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,184,10003036,Ivan Pedro Ferreira Santos,25.0,23.0,2.74,50.74
+321,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,185,10007784,Fernando Nogueira Villela,18.0,29.0,3.66,50.66
+322,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,186,10013307,Gabriel Kimito Kiyohara,20.0,27.0,3.29,50.29
+323,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,187,10009976,Andrea Benetti Carvalho,25.0,21.0,3.51,49.51
+324,"analista, análise estratégica em ciência, tecnologia e inovação",ampla,188,10010762,Daniele Lovatte Maia,20.0,28.0,1.4,49.4
+325,"analista, análise estratégica em ciência, tecnologia e inovação",negro,1,10007659,Ludi Ferreira de Avelar,26.0,29.0,9.56,64.56
+326,"analista, análise estratégica em ciência, tecnologia e inovação",negro,2,10002084,Jorge Andre Sevillis Alme ida,24.0,30.0,9.6,63.6
+327,"analista, análise estratégica em ciência, tecnologia e inovação",negro,3,10010515,Gabriel Miranda Serrao,25.0,28.0,7.88,60.88
+328,"analista, análise estratégica em ciência, tecnologia e inovação",negro,4,10012749,Kelson Gomes Santana,23.0,30.0,6.82,59.82
+329,"analista, análise estratégica em ciência, tecnologia e inovação",negro,5,10005023,Douglas Oliveira de Freitas,24.0,29.0,6.63,59.63
+330,"analista, análise estratégica em ciência, tecnologia e inovação",negro,6,10005298,Larissa Camila Torres Pinto,25.0,27.0,7.4,59.4
+331,"analista, análise estratégica em ciência, tecnologia e inovação",negro,7,10006595,Davi Mendes,24.0,26.0,8.83,58.83
+332,"analista, análise estratégica em ciência, tecnologia e inovação",negro,8,10000677,Alcides Bruno de Oliveira Lopes,22.0,28.0,8.33,58.33
+333,"analista, análise estratégica em ciência, tecnologia e inovação",negro,9,10010466,Leandro Tomaz Veiga,25.0,25.0,8.03,58.03
+334,"analista, análise estratégica em ciência, tecnologia e inovação",negro,10,10007308,Luiza Naiara Siqueira do Prado,27.0,21.0,9.93,57.93
+335,"analista, análise estratégica em ciência, tecnologia e inovação",negro,11,10008999,Ana Carol ina Leal de Oliveira,23.0,25.0,8.95,56.95
+336,"analista, análise estratégica em ciência, tecnologia e inovação",negro,12,10013092,Marcelle Candido Cordeiro,23.0,25.0,8.95,56.95
+337,"analista, análise estratégica em ciência, tecnologia e inovação",negro,13,10000378,Ellen Elsie Silva do Nascimento,21.0,26.0,9.9,56.9
+338,"analista, análise estratégica em ciência, tecnologia e inovação",negro,14,10001560,Filipe Antonio dos Santos Viegas Ribeiro,26.0,25.0,5.46,56.46
+339,"analista, análise estratégica em ciência, tecnologia e inovação",negro,15,10001764,Brenno Buarque de Lima,24.0,24.0,8.42,56.42
+340,"analista, análise estratégica em ciência, tecnologia e inovação",negro,16,10007067,Aline de Luna Marques,25.0,23.0,8.3,56.3
+341,"analista, análise estratégica em ciência, tecnologia e inovação",negro,17,10000824,Emanoel Lima Martins,20.0,26.0,9.61,55.61
+342,"analista, análise estratégica em ciência, tecnologia e inovação",negro,18,10008070,Ronei Delfino da Fonseca,23.0,25.0,7.05,55.05
+343,"analista, análise estratégica em ciência, tecnologia e inovação",negro,19,10007122,Luan de Sousa Guimaraes,23.0,24.0,8.01,55.01
+344,"analista, análise estratégica em ciência, tecnologia e inovação",negro,20,10001595,Luciana da Luz Silva,21.0,25.0,8.98,54.98
+345,"analista, análise estratégica em ciência, tecnologia e inovação",negro,21,10012176,Natane Cezario Barbosa,21.0,25.0,8.76,54.76
+346,"analista, análise estratégica em ciência, tecnologia e inovação",negro,22,10012878,Rafael Geraldo Rocha Barbosa,22.0,27.0,5.75,54.75
+347,"analista, análise estratégica em ciência, tecnologia e inovação",negro,23,10001781,Cleiton Barroso Bittencourt,19.0,27.0,8.58,54.58
+348,"analista, análise estratégica em ciência, tecnologia e inovação",negro,24,10010983,Marina Rogerio de Melo Barbosa,20.0,26.0,8.52,54.52
+349,"analista, análise estratégica em ciência, tecnologia e inovação",negro,25,10004704,Wellinghton de Medeiros Barros,22.0,23.0,9.06,54.06
+350,"analista, análise estratégica em ciência, tecnologia e inovação",negro,26,10013594,Eduardo Fontes Silveira,21.0,25.0,8.01,54.01
+351,"analista, análise estratégica em ciência, tecnologia e inovação",negro,27,10001202,Nathan Felipe Silva Andrade,21.0,27.0,5.81,53.81
+352,"analista, análise estratégica em ciência, tecnologia e inovação",negro,28,10010225,Tagela Ruthiely Barbosa Tavares,20.0,27.0,6.51,53.51
+353,"analista, análise estratégica em ciência, tecnologia e inovação",negro,29,10010442,Iure Aser Pereira Santos,20.0,25.0,8.34,53.34
+354,"analista, análise estratégica em ciência, tecnologia e inovação",negro,30,10007803,Jonatas Silva Pereira,24.0,22.0,7.19,53.19
+355,"analista, análise estratégica em ciência, tecnologia e inovação",negro,31,10004032,Larissa de Souza Pereira,21.0,25.0,7.03,53.03
+356,"analista, análise estratégica em ciência, tecnologia e inovação",negro,32,10003069,Marcelo Caetano Barreto Rosa,19.0,25.0,9.02,53.02
+357,"analista, análise estratégica em ciência, tecnologia e inovação",negro,33,10002811,Jessica Delavechia Oliveira Rodrigues,24.0,21.0,8.0,53.0
+358,"analista, análise estratégica em ciência, tecnologia e inovação",negro,34,10002344,Bruna Cristina Oliveira,22.0,24.0,6.9,52.9
+359,"analista, análise estratégica em ciência, tecnologia e inovação",negro,35,10004736,Jean Carlos de Melo Favaro,22.0,25.0,5.59,52.59
+360,"analista, análise estratégica em ciência, tecnologia e inovação",negro,36,10004885,Gabrielle Regazzi Nogueira Caetano,24.0,22.0,6.51,52.51
+361,"analista, análise estratégica em ciência, tecnologia e inovação",negro,37,10009512,Marcelo Victor Holanda Moura,17.0,27.0,8.27,52.27
+362,"analista, análise estratégica em ciência, tecnologia e inovação",negro,38,10000370,Paulo Fe lipe Reis Bistene Alexandrino,20.0,25.0,7.23,52.23
+363,"analista, análise estratégica em ciência, tecnologia e inovação",negro,39,10004864,Newton Brito Simao,21.0,24.0,7.09,52.09
+364,"analista, análise estratégica em ciência, tecnologia e inovação",negro,40,10001646,Karina Martins Cardoso,22.0,23.0,7.0,52.0
+365,"analista, análise estratégica em ciência, tecnologia e inovação",negro,41,10013627,Rafael de Oliveira dos Reis,16.0,28.0,7.88,51.88
+366,"analista, análise estratégica em ciência, tecnologia e inovação",negro,42,10008914,Mirian de Almeida Costa,22.0,21.0,8.78,51.78
+367,"analista, análise estratégica em ciência, tecnologia e inovação",negro,43,10007079,Raissa Pereira Caldeira,24.0,21.0,6.71,51.71
+368,"analista, análise estratégica em ciência, tecnologia e inovação",negro,44,10007262,Michele Cardoso da Silva,25.0,20.0,6.64,51.64
+369,"analista, análise estratégica em ciência, tecnologia e inovação",negro,45,10008244,Raphael Almeida A ndrade,18.0,25.0,8.6,51.6
+370,"analista, análise estratégica em ciência, tecnologia e inovação",negro,46,10006464,Ivanise Rodrigues dos Santos,22.0,23.0,6.41,51.41
+371,"analista, análise estratégica em ciência, tecnologia e inovação",negro,47,10008587,Mateus B arros da Silva,23.0,20.0,8.17,51.17
+372,"analista, análise estratégica em ciência, tecnologia e inovação",negro,48,10014237,Renata Rose da Silva Pereira,21.0,22.0,8.14,51.14
+373,"analista, análise estratégica em ciência, tecnologia e inovação",negro,49,10011451,Juliana Fernandes Farias,18.0,24.0,9.0,51.0
+374,"analista, análise estratégica em ciência, tecnologia e inovação",negro,50,10007918,Isabelle Brenda Ramos dos Santos,19.0,23.0,8.97,50.97
+375,"analista, análise estratégica em ciência, tecnologia e inovação",negro,51,10008960,Denise Santos de Oliveira,19.0,24.0,7.93,50.93
+376,"analista, análise estratégica em ciência, tecnologia e inovação",negro,52,10003899,Gustavo Lopes Silveira,18.0,24.0,8.93,50.93
+377,"analista, análise estratégica em ciência, tecnologia e inovação",negro,53,10009825,Ricardo Luis da Silva,20.0,24.0,6.76,50.76
+378,"analista, análise estratégica em ciência, tecnologia e inovação",negro,54,10001739,Ednaldo Lui s de Jesus Souza,21.0,23.0,6.56,50.56
+379,"analista, análise estratégica em ciência, tecnologia e inovação",negro,55,10011571,Nayla Fonseca da Silva Pinto,19.0,23.0,8.25,50.25
+380,"analista, análise estratégica em ciência, tecnologia e inovação",negro,56,10000022,Yasmin Kaore Lago  Kitagawa,21.0,21.0,8.16,50.16
+381,"analista, análise estratégica em ciência, tecnologia e inovação",negro,57,10000555,Rogerio Fonseca,22.0,21.0,7.11,50.11
+382,"analista, análise estratégica em ciência, tecnologia e inovação",negro,58,10001301,Herta Franco,20.0,24.0,5.88,49.88
+383,"analista, análise estratégica em ciência, tecnologia e inovação",negro,59,10003428,Matheus Loureiro Zanoni de Assis,21.0,24.0,4.86,49.86
+384,"analista, análise estratégica em ciência, tecnologia e inovação",negro,60,10000736,Alexandre Henrique Azevedo Coleto,19.0,23.0,7.65,49.65
+385,"analista, análise estratégica em ciência, tecnologia e inovação",negro,61,10010487,Jamir Carvalho Dias,19.0,25.0,5.58,49.58
+386,"analista, análise estratégica em ciência, tecnologia e inovação",negro,62,10011512,Robert Antonio Ramiarina,22.0,21.0,6.35,49.35
+387,"analista, análise estratégica em ciência, tecnologia e inovação",negro,63,10009639,Claudio Fernandes de Lima,19.0,22.0,8.08,49.08
+388,"analista, análise estratégica em ciência, tecnologia e inovação",negro,64,10004337,Victor Oliveira Leal,20.0,22.0,6.79,48.79
+389,"analista, análise estratégica em ciência, tecnologia e inovação",negro,65,10003271,Eduardo Macedo de Melo,18.0,23.0,7.27,48.27
+390,"analista, análise estratégica em ciência, tecnologia e inovação",negro,66,10007473,Lidia Silveira Arantes,18.0,23.0,7.07,48.07
+391,"analista, análise estratégica em ciência, tecnologia e inovação",negro,67,10003235,Georgia da Purificacao Silva Oliveira Maximo,18.0,23.0,6.96,47.96
+392,"analista, análise estratégica em ciência, tecnologia e inovação",negro,68,10012906,Leonidas de Jesus Souza,21.0,24.0,2.9,47.9
+393,"analista, análise estratégica em ciência, tecnologia e inovação",negro,69,10013519,Thales Fernandes de Abreu Joao,20.0,22.0,5.8,47.8
+394,"analista, análise estratégica em ciência, tecnologia e inovação",negro,70,10008527,Kellen Stephany Batista Marques,17.0,24.0,6.66,47.66
+395,"analista, análise estratégica em ciência, tecnologia e inovação",negro,71,10011284,Gabriel Borges dos Santos,20.0,22.0,5.63,47.63
+396,"analista, análise estratégica em ciência, tecnologia e inovação",negro,72,10003552,Suerda Gabriela Ferreira de Araujo,17.0,24.0,6.54,47.54
+397,"analista, análise estratégica em ciência, tecnologia e inovação",negro,73,10008945,Vitor Hugo Ribeiro Silva,20.0,21.0,6.51,47.51
+398,"analista, análise estratégica em ciência, tecnologia e inovação",negro,74,10011831,Alisson Barroso Reis,21.0,21.0,5.37,47.37
+399,"analista, análise estratégica em ciência, tecnologia e inovação",negro,75,10005648,Jaqueline Francie le Viana Santos,19.0,22.0,6.01,47.01
+400,"analista, análise estratégica em ciência, tecnologia e inovação",negro,76,10003648,Roberto Paulo da Silva Pinto Junior,22.0,20.0,4.71,46.71
+401,"analista, análise estratégica em ciência, tecnologia e inovação",negro,77,10012497,Hallison Daniel do Carmo Marques,16.0,25.0,4.9,45.9
+402,"analista, análise estratégica em ciência, tecnologia e inovação",negro,78,10005057,Deise Itala Santos Silva,19.0,22.0,3.88,44.88
+403,"analista, análise estratégica em ciência, tecnologia e inovação",negro,79,10006295,Nilson Bezerra Neto,21.0,20.0,3.15,44.15
+404,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,1,10011360,Frede rico Ferreira Alves Pinto,24.0,32.0,4.18,60.18
+405,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,2,10002851,Danieli Biagi Vilela,23.0,30.0,7.09,60.09
+406,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,3,10003218,Simone Silva Campos,24.0,24.0,8.83,56.83
+407,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,4,10011891,Victor Michelon Alves,23.0,25.0,8.03,56.03
+408,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,5,10007680,Juliana Carvalho da Silva,22.0,26.0,7.91,55.91
+409,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,6,10012531,Lavinia Carla Santos Ataide de Vasconcelos,21.0,27.0,7.7,55.7
+410,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,7,10012615,Jose Raphael Ole gario Franca,18.0,30.0,7.05,55.05
+411,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,8,10003174,Thiago Sousa Guimaraes Peixoto,22.0,26.0,6.9,54.9
+412,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,9,10012537,Aluizio Heleno Ribeiro Junior,20.0,26.0,8.36,54.36
+413,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,10,10002670,Camila da Costa Matheus,22.0,25.0,7.18,54.18
+414,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,11,10012885,Renan Silva Santos,18.0,28.0,7.29,53.29
+415,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,12,10000999,Sabryna Gouveia Calazans,23.0,22.0,8.27,53.27
+416,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,13,10004752,Mayane Leite da Nobrega,20.0,24.0,8.67,52.67
+417,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,14,10014598,Rafael Henrique Favero,23.0,22.0,4.9,49.9
+418,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,15,10009976,Andrea Benetti Carvalho,25.0,21.0,3.51,49.51
+419,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,16,10004470,Melissa Peron e Sa Car neiro de Sousa,19.0,23.0,7.46,49.46
+420,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,17,10011981,Adrian de Souza Oliveira,20.0,25.0,4.44,49.44
+421,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,18,10008896,Rebeca Dantas Fernandes,19.0,24.0,6.41,49.41
+422,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,19,10004669,Ridel Jorge Campos,19.0,22.0,6.77,47.77
+423,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,20,10008961,Erik Pablo Alves Jube,18.0,20.0,9.44,47.44
+424,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,21,10010275,Rodrigo Nagliate Batista,16.0,26.0,5.42,47.42
+425,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,22,10008048,Dan Abensur Gandelman,16.0,22.0,8.03,46.03
+426,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,23,10006313,Anderson Martins Correia,17.0,21.0,7.75,45.75
+427,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,24,10011026,Patricia Meireles Brito,15.0,22.0,8.72,45.72
+428,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,25,10003758,Flavia Seixas Lisboa,18.0,20.0,7.22,45.22
+429,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,26,10009518,An na Paula Teles Arrabal,16.0,23.0,6.17,45.17
+430,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,27,10006865,Daniel Leite Mesquita,19.0,22.0,3.35,44.35
+431,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,28,10012011,Fernanda Diva de Pinho Borges dos Santos,17.0,20.0,7.27,44.27
+432,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,29,10010212,Guilherme dos Santos Murara,17.0,21.0,5.96,43.96
+433,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,30,10005447,Jose Lucas Barbosa de Santana,17.0,20.0,6.94,43.94
+434,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,31,10005879,Breno Ribeiro de Souza,16.0,20.0,7.39,43.39
+435,"analista, análise estratégica em ciência, tecnologia e inovação",pcd,32,10008288,Jamilla de Paula dos Santos,15.0,23.0,5.14,43.14
+436,"analista, crédito, finanças e orçamento",ampla,1,10007926,Victor Barbosa Dahan,27.0,33.0,6.8,66.8
+437,"analista, crédito, finanças e orçamento",ampla,2,10009079,Alexandre Satoru Yamamoto,26.0,31.0,9.34,66.34
+438,"analista, crédito, finanças e orçamento",ampla,3,10001843,Lucas B atista da Silva Sousa,24.0,31.0,8.73,63.73
+439,"analista, crédito, finanças e orçamento",ampla,4,10012549,Elton Batista D antas Muniz,26.0,28.0,9.53,63.53
+440,"analista, crédito, finanças e orçamento",ampla,5,10006960,Rafael Bernardo da Silva,22.0,32.0,9.18,63.18
+441,"analista, crédito, finanças e orçamento",ampla,6,10011377,Filipe Matheus Silva Cavalcanti,24.0,29.0,9.87,62.87
+442,"analista, crédito, finanças e orçamento",ampla,7,10010527,Joao Italo Zecchin Reis,26.0,28.0,8.86,62.86
+443,"analista, crédito, finanças e orçamento",ampla,8,10003980,Marcelo Luis Menezes Cavalcante,22.0,32.0,8.82,62.82
+444,"analista, crédito, finanças e orçamento",ampla,9,10004737,Ivan Donizetti de Paula Junior,26.0,29.0,7.32,62.32
+445,"analista, crédito, finanças e orçamento",ampla,10,10002054,Renato Augusto de Morais Brito,24.0,30.0,8.19,62.19
+446,"analista, crédito, finanças e orçamento",ampla,11,10008895,Wagner Oliveira Monteiro,26.0,31.0,5.02,62.02
+447,"analista, crédito, finanças e orçamento",ampla,12,10002423,Luis Paulo de Lara Moromizato,23.0,31.0,7.91,61.91
+448,"analista, crédito, finanças e orçamento",ampla,13,10001174,Patricia de Oliveira Melo,24.0,30.0,7.75,61.75
+449,"analista, crédito, finanças e orçamento",ampla,14,10002775,Gabriel Martins da Silva Porto,26.0,29.0,6.68,61.68
+450,"analista, crédito, finanças e orçamento",ampla,15,10000533,Guilherme Tenorio Gomes,25.0,28.0,8.57,61.57
+451,"analista, crédito, finanças e orçamento",ampla,16,10009739,Thomaz Carrico dos Santos Lopes,26.0,27.0,8.09,61.09
+452,"analista, crédito, finanças e orçamento",ampla,17,10000724,Marcello Uchoa Melo de Araujo,25.0,27.0,9.05,61.05
+453,"analista, crédito, finanças e orçamento",ampla,18,10010636,Hiago Gomes Pereira,23.0,31.0,6.96,60.96
+454,"analista, crédito, finanças e orçamento",ampla,19,10005468,Leonardo Caldas Quaranta,23.0,31.0,6.84,60.84
+455,"analista, crédito, finanças e orçamento",ampla,20,10002731,Alexandre Brandes Leite,24.0,28.0,8.82,60.82
+456,"analista, crédito, finanças e orçamento",ampla,21,10013160,Israel Moreira Paradela,25.0,28.0,7.68,60.68
+457,"analista, crédito, finanças e orçamento",ampla,22,10008272,P edro Comarella Nogueira,27.0,25.0,8.62,60.62
+458,"analista, crédito, finanças e orçamento",ampla,23,10012713,Allison Leite de Aguiar,20.0,31.0,9.6,60.6
+459,"analista, crédito, finanças e orçamento",ampla,24,10004496,Claudio Eduardo Doiche Junior,23.0,30.0,7.14,60.14
+460,"analista, crédito, finanças e orçamento",ampla,25,10007785,Bruna Mariano Rodrigues de Souza,28.0,27.0,5.01,60.01
+461,"analista, crédito, finanças e orçamento",ampla,26,10005194,Antonio Sergio Munhoz,26.0,28.0,5.94,59.94
+462,"analista, crédito, finanças e orçamento",ampla,27,10014271,Guilherme Ramos,27.0,25.0,7.88,59.88
+463,"analista, crédito, finanças e orçamento",ampla,28,10005202,Tainan de Bacco Freitas Boff,22.0,30.0,7.88,59.88
+464,"analista, crédito, finanças e orçamento",ampla,29,10008294,Caio Rabelo de Paula Zanello,24.0,28.0,7.86,59.86
+465,"analista, crédito, finanças e orçamento",ampla,30,10005618,Renato Nery Almeida,23.0,29.0,7.82,59.82
+466,"analista, crédito, finanças e orçamento",ampla,31,10000122,Bruna Baptista da Costa Feder,26.0,24.0,9.81,59.81
+467,"analista, crédito, finanças e orçamento",ampla,32,10009349,Rummenigge Pinhel de Mello e Alvim,22.0,31.0,6.6,59.6
+468,"analista, crédito, finanças e orçamento",ampla,33,10002135,Henrique Hung,23.0,27.0,9.4,59.4
+469,"analista, crédito, finanças e orçamento",ampla,34,10004647,Joao Ricardo Cruz Moco,28.0,26.0,5.39,59.39
+470,"analista, crédito, finanças e orçamento",ampla,35,10004720,Leony Alexandre Gabriel Soares,22.0,31.0,6.35,59.35
+471,"analista, crédito, finanças e orçamento",ampla,36,10009414,Henr ique Paixao Tegon,22.0,29.0,7.9,58.9
+472,"analista, crédito, finanças e orçamento",ampla,37,10000085,Ana Carolina Marchezi Cobe,25.0,26.0,7.78,58.78
+473,"analista, crédito, finanças e orçamento",ampla,38,10010767,Gustavo Arede Almeida,23.0,27.0,8.73,58.73
+474,"analista, crédito, finanças e orçamento",ampla,39,10012287,Alfredo Aguiar Sampaio dos Santos,24.0,28.0,6.62,58.62
+475,"analista, crédito, finanças e orçamento",ampla,40,10003831,Diogo Senna Canongia,26.0,27.0,5.53,58.53
+476,"analista, crédito, finanças e orçamento",ampla,41,10003040,Eduardo Machado Cavalcanti,20.0,31.0,7.52,58.52
+477,"analista, crédito, finanças e orçamento",ampla,42,10005233,Renan Scavone Fernandes P ereira,24.0,28.0,6.51,58.51
+478,"analista, crédito, finanças e orçamento",ampla,43,10002026,Joao Pedro Soares Nunes,22.0,28.0,8.47,58.47
+479,"analista, crédito, finanças e orçamento",ampla,44,10003499,Rodrigo Mariano do Nascimento Silva,22.0,30.0,6.46,58.46
+480,"analista, crédito, finanças e orçamento",ampla,45,10005301,Livia Maria Lopes Stanzani,21.0,30.0,7.45,58.45
+481,"analista, crédito, finanças e orçamento",ampla,46,10002155,Rodrigo Cesar de Moraes Fonseca,20.0,29.0,9.36,58.36
+482,"analista, crédito, finanças e orçamento",ampla,47,10006940,Marcelo Kim Imai,22.0,31.0,5.26,58.26
+483,"analista, crédito, finanças e orçamento",ampla,48,10004848,Andre Luis e Silva Silva,23.0,28.0,7.09,58.09
+484,"analista, crédito, finanças e orçamento",ampla,49,10011615,Celina Yumiko Ozawa,25.0,25.0,8.01,58.01
+485,"analista, crédito, finanças e orçamento",ampla,50,10000037,Tiago Noronha Fer reira,19.0,31.0,7.89,57.89
+486,"analista, crédito, finanças e orçamento",ampla,51,10005885,Augusto Felippe Caramico dos Santos,21.0,28.0,8.8,57.8
+487,"analista, crédito, finanças e orçamento",ampla,52,10012028,Marcio Ricardo Pereira de Lucena,25.0,27.0,5.78,57.78
+488,"analista, crédito, finanças e orçamento",ampla,53,10006189,Tais Oliveira de Freitas,24.0,25.0,8.57,57.57
+489,"analista, crédito, finanças e orçamento",ampla,54,10010634,Markus Souza do Nascimento,21.0,29.0,7.54,57.54
+490,"analista, crédito, finanças e orçamento",ampla,55,10004161,Gabriel Miranda Couto,24.0,27.0,6.42,57.42
+491,"analista, crédito, finanças e orçamento",ampla,56,10000094,Kamaiaji de Souza Castor,24.0,28.0,5.4,57.4
+492,"analista, crédito, finanças e orçamento",ampla,57,10006355,Nicholli Menezes Ribeiro de Oliveira,21.0,30.0,6.32,57.32
+493,"analista, crédito, finanças e orçamento",ampla,58,10008219,Luiz Paulino do Nascimento Neto,21.0,28.0,8.23,57.23
+494,"analista, crédito, finanças e orçamento",ampla,59,10001786,Rodrigo Junqueira Fernandes Rodrigues,23.0,26.0,8.19,57.19
+495,"analista, crédito, finanças e orçamento",ampla,60,10008062,Carlos Vinicius de Mor ais,20.0,28.0,9.12,57.12
+496,"analista, crédito, finanças e orçamento",ampla,61,10006276,Pedro Henrique de Oliveira Silva,24.0,26.0,7.08,57.08
+497,"analista, crédito, finanças e orçamento",ampla,62,10008900,Webber Stelling,21.0,30.0,6.06,57.06
+498,"analista, crédito, finanças e orçamento",ampla,63,10006018,Gustavo Fernandes de Oliveira,25.0,26.0,5.92,56.92
+499,"analista, crédito, finanças e orçamento",ampla,64,10001851,Ticiana Sayuri Tavares Shibata,22.0,27.0,7.85,56.85
+500,"analista, crédito, finanças e orçamento",ampla,65,10010500,Jailson Araujo de Lima Junior,21.0,28.0,7.76,56.76
+501,"analista, crédito, finanças e orçamento",ampla,66,10008842,Manuela Cristina Lem os Marcal,24.0,26.0,6.73,56.73
+502,"analista, crédito, finanças e orçamento",ampla,67,10011054,Felipe Soares dos Santos,24.0,26.0,6.71,56.71
+503,"analista, crédito, finanças e orçamento",ampla,68,10000560,Rafael de Albu querque Feitosa,25.0,27.0,4.42,56.42
+504,"analista, crédito, finanças e orçamento",ampla,69,10003600,Vitor Robaina de Almeida,23.0,27.0,6.41,56.41
+505,"analista, crédito, finanças e orçamento",ampla,70,10004471,Marcelo Nunes Fonseca,24.0,27.0,5.23,56.23
+506,"analista, crédito, finanças e orçamento",ampla,71,10010166,Fabio Ricardo,22.0,28.0,5.95,55.95
+507,"analista, crédito, finanças e orçamento",ampla,72,10002045,Luciana Strauch de Andrade,23.0,25.0,7.87,55.87
+508,"analista, crédito, finanças e orçamento",ampla,73,10005223,Caeta no Oliveira de Oliveira,22.0,24.0,9.86,55.86
+509,"analista, crédito, finanças e orçamento",ampla,74,10010273,Andre Luis Andrade Padulla,21.0,29.0,5.85,55.85
+510,"analista, crédito, finanças e orçamento",ampla,75,10011844,Luiz Arthur Monteiro de Barros Carneiro,22.0,28.0,5.83,55.83
+511,"analista, crédito, finanças e orçamento",ampla,76,10012810,Tania Cristina Silva Nunes,24.0,26.0,5.42,55.42
+512,"analista, crédito, finanças e orçamento",ampla,77,10010760,Iago de Azevedo Rocha Maia,20.0,31.0,4.33,55.33
+513,"analista, crédito, finanças e orçamento",ampla,78,10001820,Gabriel Ferreira dos Santos,22.0,25.0,8.17,55.17
+514,"analista, crédito, finanças e orçamento",ampla,79,10011751,Jice Amalia Andrade Bezerra,22.0,25.0,8.16,55.16
+515,"analista, crédito, finanças e orçamento",ampla,80,10000047,Brendon Silva de Oliveira,25.0,22.0,7.91,54.91
+516,"analista, crédito, finanças e orçamento",ampla,81,10011237,Joyce Santos de Miranda,25.0,22.0,7.88,54.88
+517,"analista, crédito, finanças e orçamento",ampla,82,10011011,Marcelle Cerqueira de Araujo,20.0,27.0,7.84,54.84
+518,"analista, crédito, finanças e orçamento",ampla,83,10001832,Flavia Carvalho de Moraes e Silva,23.0,23.0,8.78,54.78
+519,"analista, crédito, finanças e orçamento",ampla,84,10013324,Leonardo da Cunha Brandao Augusto,19.0,29.0,6.74,54.74
+520,"analista, crédito, finanças e orçamento",ampla,85,10010141,Andre Couto Saldanha,23.0,25.0,6.73,54.73
+521,"analista, crédito, finanças e orçamento",ampla,86,10006671,Felipe Perecmanis,22.0,26.0,6.72,54.72
+522,"analista, crédito, finanças e orçamento",ampla,87,10010665,Joao Victor Goncalves Gouvea,21.0,26.0,7.6,54.6
+523,"analista, crédito, finanças e orçamento",ampla,88,10014571,Luiz Felipe Vendramini Gomes,21.0,25.0,8.56,54.56
+524,"analista, crédito, finanças e orçamento",ampla,89,10001678,Daniel Teixeira de Farias,25.0,22.0,7.53,54.53
+525,"analista, crédito, finanças e orçamento",ampla,90,10003767,Alencar da Rosa Bravo,22.0,25.0,7.5,54.5
+526,"analista, crédito, finanças e orçamento",ampla,91,10009431,Felipe Cabo Ribeiro,22.0,25.0,7.46,54.46
+527,"analista, crédito, finanças e orçamento",ampla,92,10013654,Fabio Joaquim da Silva,21.0,25.0,8.41,54.41
+528,"analista, crédito, finanças e orçamento",ampla,93,10004002,Ronaldo Pires Gondim Barbosa Batista,24.0,22.0,8.4,54.4
+529,"analista, crédito, finanças e orçamento",ampla,94,10000874,Renan Carvalho Schieber,20.0,26.0,8.34,54.34
+530,"analista, crédito, finanças e orçamento",ampla,95,10010191,Tomaz Silva Gonzales,22.0,23.0,9.3,54.3
+531,"analista, crédito, finanças e orçamento",ampla,96,10009246,Brunno Eudes de Oliveira,22.0,25.0,7.26,54.26
+532,"analista, crédito, finanças e orçamento",ampla,97,10004106,Alice do Carmo Elias,25.0,23.0,6.21,54.21
+533,"analista, crédito, finanças e orçamento",ampla,98,10009237,Hicaro de Souza Oliveira,23.0,25.0,6.16,54.16
+534,"analista, crédito, finanças e orçamento",ampla,99,10001106,Marco Aurelio Elias Correa,20.0,28.0,6.14,54.14
+535,"analista, crédito, finanças e orçamento",ampla,100,10003775,Gustavo Cardim dos Anjos,25.0,21.0,8.11,54.11
+536,"analista, crédito, finanças e orçamento",ampla,101,10000804,Renata Lemos Lima,21.0,25.0,8.03,54.03
+537,"analista, crédito, finanças e orçamento",ampla,102,10009342,Pollyana Maria Barros de Franca,21.0,24.0,9.01,54.01
+538,"analista, crédito, finanças e orçamento",ampla,103,10007113,Paulo Jose Rufino Rego,21.0,25.0,7.94,53.94
+539,"analista, crédito, finanças e orçamento",ampla,104,10003245,Gabriel Goncalves do Vale Monteiro,18.0,28.0,7.85,53.85
+540,"analista, crédito, finanças e orçamento",ampla,105,10008541,Luis Filipe Veillard Farias,20.0,25.0,8.78,53.78
+541,"analista, crédito, finanças e orçamento",ampla,106,10010284,Marcelo Poton Peres,20.0,28.0,5.76,53.76
+542,"analista, crédito, finanças e orçamento",ampla,107,10008889,Yuri Antonio de Souza,19.0,26.0,8.66,53.66
+543,"analista, crédito, finanças e orçamento",ampla,108,10011348,Ana Cristina Quaresma Amaral,21.0,25.0,7.59,53.59
+544,"analista, crédito, finanças e orçamento",ampla,109,10010817,Wilson Guntzel Osorio,22.0,26.0,5.57,53.57
+545,"analista, crédito, finanças e orçamento",ampla,110,10000477,Gilcione Francisco Dutra Junior,25.0,24.0,4.55,53.55
+546,"analista, crédito, finanças e orçamento",ampla,111,10003472,Arthur de Lima Ramos,22.0,24.0,7.47,53.47
+547,"analista, crédito, finanças e orçamento",ampla,112,10005811,Luan Carlos de Souza Fragoso,21.0,26.0,6.44,53.44
+548,"analista, crédito, finanças e orçamento",ampla,113,10008635,Wiliam de Oliveira Ribeiro,22.0,25.0,6.39,53.39
+549,"analista, crédito, finanças e orçamento",ampla,114,10001542,Lauria Lopes Protasio,23.0,26.0,4.17,53.17
+550,"analista, crédito, finanças e orçamento",ampla,115,10011440,Anna Rosa Alux Simao Unfer,20.0,25.0,8.16,53.16
+551,"analista, crédito, finanças e orçamento",ampla,116,10008199,Enoque Narcizo dos Santos da Silva,22.0,24.0,7.02,53.02
+552,"analista, crédito, finanças e orçamento",ampla,117,10001234,Diogo de Carvalho Cantarino,22.0,23.0,8.0,53.0
+553,"analista, crédito, finanças e orçamento",ampla,118,10012434,Arthur Baptista Feijo,19.0,26.0,7.98,52.98
+554,"analista, crédito, finanças e orçamento",ampla,119,10008160,Marc os Aurelio dos Santos,21.0,24.0,7.77,52.77
+555,"analista, crédito, finanças e orçamento",ampla,120,10011724,Fabio Cunha Lobo de Melo,21.0,25.0,6.69,52.69
+556,"analista, crédito, finanças e orçamento",ampla,121,10013140,And re Lourenco Simoes da Costa,20.0,25.0,7.65,52.65
+557,"analista, crédito, finanças e orçamento",ampla,122,10012684,Cezar Eduardo Vicente Barbosa,20.0,25.0,7.58,52.58
+558,"analista, crédito, finanças e orçamento",ampla,123,10011585,Naielly Lopes Marques,20.0,25.0,7.58,52.58
+559,"analista, crédito, finanças e orçamento",ampla,124,10010596,Viviane Pessoa Fernandes,22.0,24.0,6.53,52.53
+560,"analista, crédito, finanças e orçamento",ampla,125,10006184,Carlos Diego da Silva Gonzaga,20.0,25.0,7.51,52.51
+561,"analista, crédito, finanças e orçamento",ampla,126,10008825,A lexandre Machry,20.0,28.0,4.5,52.5
+562,"analista, crédito, finanças e orçamento",ampla,127,10010557,Jose Lucas Santos de Castro,17.0,29.0,6.33,52.33
+563,"analista, crédito, finanças e orçamento",ampla,128,10012819,Natalia Cordeiro Levy,24.0,23.0,5.28,52.28
+564,"analista, crédito, finanças e orçamento",ampla,129,10005267,Gabriel Hidd,19.0,27.0,6.05,52.05
+565,"analista, crédito, finanças e orçamento",ampla,130,10001716,Rafael Estanislau Goncalves,19.0,26.0,6.94,51.94
+566,"analista, crédito, finanças e orçamento",ampla,131,10013336,Alan Soares Lemos,19.0,26.0,6.91,51.91
+567,"analista, crédito, finanças e orçamento",ampla,132,10012192,Edmilson Luiz de Jesus,20.0,26.0,5.87,51.87
+568,"analista, crédito, finanças e orçamento",ampla,133,10010748,Fernando Henrique Rod rigues Neto,21.0,25.0,5.81,51.81
+569,"analista, crédito, finanças e orçamento",ampla,134,10012196,Leonardo Bento de Lima,22.0,23.0,6.81,51.81
+570,"analista, crédito, finanças e orçamento",ampla,135,10013017,Renata Griffith Santiago Lopes,24.0,21.0,6.66,51.66
+571,"analista, crédito, finanças e orçamento",ampla,136,10001159,Giovanni Lucas Gondim Oliveira,21.0,24.0,6.43,51.43
+572,"analista, crédito, finanças e orçamento",ampla,137,10010851,Erica Silverio Rodrigues Silva,23.0,22.0,6.41,51.41
+573,"analista, crédito, finanças e orçamento",ampla,138,10012012,Matheus Savio Santana,21.0,26.0,4.32,51.32
+574,"analista, crédito, finanças e orçamento",ampla,139,10006630,Bruno Burlamaqui Stonner,22.0,24.0,5.26,51.26
+575,"analista, crédito, finanças e orçamento",ampla,140,10010034,Thiago Cymbal,18.0,28.0,5.21,51.21
+576,"analista, crédito, finanças e orçamento",ampla,141,10010846,Raphael Murilo Jorge de Lima Nunes,22.0,24.0,5.06,51.06
+577,"analista, crédito, finanças e orçamento",ampla,142,10003692,Juliano Prudencio da Cunha,20.0,27.0,3.98,50.98
+578,"analista, crédito, finanças e orçamento",ampla,143,10005599,Carlos Gustavo Higuchi,21.0,24.0,5.89,50.89
+579,"analista, crédito, finanças e orçamento",ampla,144,10006618,Matheus Miranda Byrro,19.0,28.0,3.76,50.76
+580,"analista, crédito, finanças e orçamento",ampla,145,10001626,Juliana dos Santos Pituba Martins,21.0,24.0,5.67,50.67
+581,"analista, crédito, finanças e orçamento",ampla,146,10012856,Filipe Bonini Manzano,22.0,23.0,4.9,49.9
+582,"analista, crédito, finanças e orçamento",ampla,147,10007777,Luiz Felipe Ribeiro Barbosa,20.0,26.0,3.87,49.87
+583,"analista, crédito, finanças e orçamento",ampla,148,10009142,Thiago Azevedo Conte de Melo,20.0,25.0,4.77,49.77
+584,"analista, crédito, finanças e orçamento",ampla,149,10009535,Gabriel Pereira Haas,23.0,22.0,3.88,48.88
+585,"analista, crédito, finanças e orçamento",ampla,150,10001753,Sidimar Quezada Leite,19.0,26.0,3.2,48.2
+586,"analista, crédito, finanças e orçamento",ampla,151,10011776,Joao Marcio Silveira Thomaz Batalha,19.0,26.0,3.0,48.0
+587,"analista, crédito, finanças e orçamento",ampla,152,10008036,Jose Alexandr e Machado Costa,22.0,24.0,1.74,47.74
+588,"analista, crédito, finanças e orçamento",ampla,153,10004112,Andre de Abreu Coletti,22.0,23.0,0.25,45.25
+589,"analista, crédito, finanças e orçamento",negro,1,10001843,Lucas Batista da Silva Sousa,24.0,31.0,8.73,63.73
+590,"analista, crédito, finanças e orçamento",negro,2,10000533,Guilherme Tenorio Gomes,25.0,28.0,8.57,61.57
+591,"analista, crédito, finanças e orçamento",negro,3,10010636,Hiago Gomes Pereira,23.0,31.0,6.96,60.96
+592,"analista, crédito, finanças e orçamento",negro,4,10014271,Guilherme Ramos,27.0,25.0,7.88,59.88
+593,"analista, crédito, finanças e orçamento",negro,5,10002026,Joao Pedro Soares Nunes,22.0,28.0,8.47,58.47
+594,"analista, crédito, finanças e orçamento",negro,6,10006189,Tais Oliveira de Freitas,24.0,25.0,8.57,57.57
+595,"analista, crédito, finanças e orçamento",negro,7,10011751,Jice Amalia Andrade Bezerra,22.0,25.0,8.16,55.16
+596,"analista, crédito, finanças e orçamento",negro,8,10011237,Joyce Santos de Miranda,25.0,22.0,7.88,54.88
+597,"analista, crédito, finanças e orçamento",negro,9,10001678,Daniel Teixeira de Farias,25.0,22.0,7.53,54.53
+598,"analista, crédito, finanças e orçamento",negro,10,10013654,Fabio Joaquim da Silva,21.0,25.0,8.41,54.41
+599,"analista, crédito, finanças e orçamento",negro,11,10009246,Brunno Eudes de Oliveira,22.0,25.0,7.26,54.26
+600,"analista, crédito, finanças e orçamento",negro,12,10008541,Luis Filipe Veillard Farias,20.0,25.0,8.78,53.78
+601,"analista, crédito, finanças e orçamento",negro,13,10011724,Fabio Cunha Lobo de Melo,21.0,25.0,6.69,52.69
+602,"analista, crédito, finanças e orçamento",negro,14,10007080,Tiago Borges Santiago,22.0,22.0,7.89,51.89
+603,"analista, crédito, finanças e orçamento",negro,15,10001655,Pedro Henrique Neris Veloso,17.0,24.0,8.99,49.99
+604,"analista, crédito, finanças e orçamento",negro,16,10011088,Gabriel Gustavo dos Santos Loureiro,19.0,22.0,8.67,49.67
+605,"analista, crédito, finanças e orçamento",negro,17,10011198,Juliano Machado Lino,17.0,24.0,8.6,49.6
+606,"analista, crédito, finanças e orçamento",negro,18,10010108,Thiago Braulio Munhoz Gomes,21.0,20.0,8.44,49.44
+607,"analista, crédito, finanças e orçamento",negro,19,10002368,Moises Araujo Vidal,20.0,23.0,6.29,49.29
+608,"analista, crédito, finanças e orçamento",negro,20,10002196,Belarmino Gouveia Vissuma,19.0,23.0,7.22,49.22
+609,"analista, crédito, finanças e orçamento",negro,21,10007969,Lucas Siqueira de Carvalho,23.0,20.0,6.08,49.08
+610,"analista, crédito, finanças e orçamento",negro,22,10006913,Murilo Fonseca dos Santos da Silva,19.0,22.0,7.68,48.68
+611,"analista, crédito, finanças e orçamento",negro,23,10009536,Joao Gabriel Pelliccione Girota de Souza,20.0,22.0,5.77,47.77
+612,"analista, crédito, finanças e orçamento",negro,24,10007163,Fernand o Felix da Silva,19.0,23.0,5.16,47.16
+613,"analista, crédito, finanças e orçamento",negro,25,10000585,Sidirley Daniel Venancio,17.0,23.0,7.11,47.11
+614,"analista, crédito, finanças e orçamento",negro,26,10000084,Victor Morais Paiva,20.0,21.0,6.06,47.06
+615,"analista, crédito, finanças e orçamento",negro,27,10007587,Italo Luiz Silva Ferreira Lima,17.0,23.0,6.96,46.96
+616,"analista, crédito, finanças e orçamento",negro,28,10003399,Adriano Acioli Lopes,20.0,20.0,6.73,46.73
+617,"analista, crédito, finanças e orçamento",negro,29,10000046,Etienne Molles Magalhaes,17.0,21.0,8.33,46.33
+618,"analista, crédito, finanças e orçamento",negro,30,10008379,Jose Guilherme Bispo Fernandes,20.0,21.0,5.31,46.31
+619,"analista, crédito, finanças e orçamento",negro,31,10004465,Daniele Souza dos Santos,21.0,20.0,5.12,46.12
+620,"analista, crédito, finanças e orçamento",negro,32,10011667,Leila Santiago Souza,17.0,21.0,8.08,46.08
+621,"analista, crédito, finanças e orçamento",negro,33,10008179,Devisson Mesquita dos Santos,16.0,23.0,6.77,45.77
+622,"analista, crédito, finanças e orçamento",negro,34,10014457,Luiz Carlos Correa Filho,17.0,21.0,7.51,45.51
+623,"analista, crédito, finanças e orçamento",negro,35,10010023,Jesvan Lima Santos Dias de Souza,18.0,21.0,6.26,45.26
+624,"analista, crédito, finanças e orçamento",negro,36,10002233,Paulo Victor Bento Honorio,19.0,20.0,5.52,44.52
+625,"analista, crédito, finanças e orçamento",negro,37,10003944,Lelio Rodrigues da Cruz,20.0,22.0,1.68,43.68
+626,"analista, crédito, finanças e orçamento",negro,38,10014434,Glauber Guedes da Silva Trindade,18.0,21.0,4.67,43.67
+627,"analista, crédito, finanças e orçamento",negro,39,10001960,Taissa da S ilva Oliveira,18.0,20.0,2.2,40.2
+628,"analista, crédito, finanças e orçamento",pcd,1,10012549,Elton Batista Dantas Muniz,26.0,28.0,9.53,63.53
+629,"analista, crédito, finanças e orçamento",pcd,2,10012713,Allison Leite de Ag uiar,20.0,31.0,9.6,60.6
+630,"analista, crédito, finanças e orçamento",pcd,3,10001786,Rodrigo Junqueira Fernandes Rodrigues,23.0,26.0,8.19,57.19
+631,"analista, crédito, finanças e orçamento",pcd,4,10008900,Webber Stelling,21.0,30.0,6.06,57.06
+632,"analista, crédito, finanças e orçamento",pcd,5,10010851,Erica Silverio Rodrigues Silva,23.0,22.0,6.41,51.41
+633,"analista, crédito, finanças e orçamento",pcd,6,10012356,Anderson Alcantara Medeiros,21.0,20.0,8.82,49.82
+634,"analista, crédito, finanças e orçamento",pcd,7,10003103,Freddy Freitas Alcantara,19.0,23.0,6.76,48.76
+635,"analista, crédito, finanças e orçamento",pcd,8,10009303,Tadeu do Monti Nascimento Cunha,20.0,20.0,8.5,48.5
+636,"analista, crédito, finanças e orçamento",pcd,9,10001623,Marcos Tarciso dos Santos Correa,17.0,23.0,8.13,48.13
+637,"analista, crédito, finanças e orçamento",pcd,10,10002066,Antonio Miguel Leao Filho,19.0,22.0,6.04,47.04
+638,"analista, crédito, finanças e orçamento",pcd,11,10006224,Jose Francisco de Araujo,16.0,21.0,7.81,44.81
+639,"analista, jurídica",ampla,1,10000163,Bruna Guerra Lofrano,25.0,29.0,9.11,63.11
+640,"analista, jurídica",ampla,2,10004222,Caio Felipe Baptista Coelho,25.0,30.0,6.76,61.76
+641,"analista, jurídica",ampla,3,10003281,Ana Luiza Lacerda Amaral,26.0,27.0,8.47,61.47
+642,"analista, jurídica",ampla,4,10004488,Bruno Ribeiro dos Santos,19.0,34.0,8.13,61.13
+643,"analista, jurídica",ampla,5,10000617,Carlos Eugenio Nogueira Campos de Sousa,24.0,28.0,6.86,58.86
+644,"analista, jurídica",ampla,6,10001326,Bruno Ribeiro Silva de Oliveira,23.0,29.0,6.8,58.8
+645,"analista, jurídica",negro,1,10002539,Marcelle Teixeira da Silva Fernandes,24.0,31.0,8.92,63.92
+646,"analista, jurídica",negro,2,10011569,Matheus Roberto Goncalves Borges,20.0,33.0,7.91,60.91
+647,"analista, jurídica",negro,3,10006996,Pablo Eneas de Oliveira Ro drigues,24.0,28.0,7.35,59.35
+648,"analista, jurídica",negro,4,10001880,Lailson Henrique Ferreira Junior,20.0,30.0,9.26,59.26
+649,"analista, jurídica",negro,5,10006614,Leticia Maria Ferraz Ferreira,22.0,27.0,8.86,57.86
+650,"analista, jurídica",negro,6,10002576,Armando Fortes Peixoto,17.0,33.0,6.75,56.75
+651,"analista, jurídica",negro,7,10004203,Bruno Baima Costa Cabral,24.0,26.0,6.42,56.42
+652,"analista, jurídica",negro,8,10000594,Lucas Rocha do Nascimento,20.0,27.0,9.4,56.4
+653,"analista, jurídica",negro,9,10008342,Elisamar Vital Maciel dos Santos,21.0,29.0,5.56,55.56
+654,"analista, jurídica",negro,10,10000731,Juliana Jezuino da C osta,22.0,24.0,9.33,55.33
+655,"analista, jurídica",negro,11,10005075,Igor Souza Neres,25.0,21.0,7.58,53.58
+656,"analista, jurídica",negro,12,10002475,Otavio Augusto de Oliveira Cruz Filho,22.0,24.0,7.3,53.3
+657,"analista, jurídica",negro,13,10013909,Manuella Marina Soares Lima,18.0,28.0,6.76,52.76
+658,"analista, jurídica",pcd,1,10006117,Felipe de Castro Santos,25.0,32.0,9.5,66.5
+659,"analista, jurídica",pcd,2,10009233,Jose Eduardo Habib Stumpf  de Aragao,23.0,31.0,9.43,63.43
+660,"analista, jurídica",pcd,3,10011035,Marco Antonio do Amaral Filho,21.0,29.0,8.38,58.38
+661,"analista, jurídica",pcd,4,10001327,Ian Neres Teixeira,22.0,25.0,7.69,54.69
+662,"analista, jurídica",pcd,5,10002451,Lucas Jose Martins Pinna,22.0,25.0,6.7,53.7
+663,"analista, jurídica",pcd,6,10008438,Michelle Cordeiro Rodrigues,20.0,21.0,8.13,49.13
+664,"analista, jurídica",pcd,7,10008328,Pedro Henrique Nascimento Souto,18.0,23.0,6.98,47.98
+665,"analista, jurídica",pcd,8,10001013,Jose Stalin de Andrade Junior,19.0,20.0,4.73,43.73
+666,"analista, jurídica",pcd,9,10001939,Daniel Silva de Jesus,15.0,22.0,2.67,39.67
+667,"analista, tecnologia da informação, infraestrutura",ampla,1,10001173,Joao Bernardo Vieira Gomes,25.0,32.0,6.77,63.77
+668,"analista, tecnologia da informação, infraestrutura",ampla,2,10002384,Caio Gomes Flausino,24.0,28.0,8.4,60.4
+669,"analista, tecnologia da informação, infraestrutura",ampla,3,10003637,Pedro Ceriotti Trindade,22.0,30.0,8.32,60.32
+670,"analista, tecnologia da informação, infraestrutura",ampla,4,10010506,Jose Alberto Pereira Bassi Junior,24.0,29.0,6.86,59.86
+671,"analista, tecnologia da informação, infraestrutura",ampla,5,10010829,Felipe Edson Pereira Tamanqueira,22.0,29.0,8.08,59.08
+672,"analista, tecnologia da informação, infraestrutura",ampla,6,10009299,Robson de Carvalho,21.0,29.0,8.71,58.71
+673,"analista, tecnologia da informação, infraestrutura",ampla,7,10005225,Vinicius Lopes Simoes,25.0,24.0,9.35,58.35
+674,"analista, tecnologia da informação, infraestrutura",ampla,8,10013776,Andrey Nunes Sobrinho,20.0,29.0,8.92,57.92
+675,"analista, tecnologia da informação, infraestrutura",ampla,9,10006888,Illo Alberto Queiroz Weber,21.0,28.0,7.91,56.91
+676,"analista, tecnologia da informação, infraestrutura",ampla,10,10011297,Gustavo da Silva,25.0,22.0,8.31,55.31
+677,"analista, tecnologia da informação, infraestrutura",ampla,11,10004508,Hu go Vaz Sampaio,21.0,28.0,5.81,54.81
+678,"analista, tecnologia da informação, infraestrutura",ampla,12,10004584,Bruno Henrique Ferreira,20.0,27.0,7.48,54.48
+679,"analista, tecnologia da informação, infraestrutura",ampla,13,10013958,Rui Martins Vieira Barbosa,22.0,24.0,7.86,53.86
+680,"analista, tecnologia da informação, infraestrutura",ampla,14,10010965,Rynaldo Anversa Rosa,24.0,24.0,5.82,53.82
+681,"analista, tecnologia da informação, infraestrutura",ampla,15,10006445,Filipe Fernandes de Oliveira Nascimento,19.0,27.0,7.57,53.57
+682,"analista, tecnologia da informação, infraestrutura",ampla,16,10006699,Filipe Vidal Torreao,21.0,26.0,6.46,53.46
+683,"analista, tecnologia da informação, infraestrutura",ampla,17,10009406,Augusto Tia go Clemonesi,21.0,25.0,7.33,53.33
+684,"analista, tecnologia da informação, infraestrutura",ampla,18,10011221,Bernardo Borges do Nascimento,22.0,26.0,5.1,53.1
+685,"analista, tecnologia da informação, infraestrutura",ampla,19,10002454,Paulo Alexandre de Carvalho Cunha,21.0,27.0,4.66,52.66
+686,"analista, tecnologia da informação, infraestrutura",ampla,20,10010873,Felipe Araujo Eustaquio,19.0,27.0,6.4,52.4
+687,"analista, tecnologia da informação, infraestrutura",ampla,21,10010994,Victor Jose Rogel Carneiro,24.0,24.0,3.24,51.24
+688,"analista, tecnologia da informação, infraestrutura",ampla,22,10009068,Lucas Ferreira Pinheiro,19.0,27.0,4.56,50.56
+689,"analista, tecnologia da informação, infraestrutura",negro,1,10005837,Antonio Guilherme Rodrigues Araujo,18.0,26.0,6.89,50.89
+690,"analista, tecnologia da informação, infraestrutura",negro,2,10005579,Anderson Santos Ribeiro,15.0,27.0,8.64,50.64
+691,"analista, tecnologia da informação, infraestrutura",negro,3,10013109,Jorge Roberto Mendes Filho,20.0,25.0,5.51,50.51
+692,"analista, tecnologia da informação, infraestrutura",negro,4,10003772,Diego Pereira da Silva,23.0,21.0,5.52,49.52
+693,"analista, tecnologia da informação, infraestrutura",negro,5,10002568,Marcelo Tavares dos Santos,20.0,20.0,8.66,48.66
+694,"analista, tecnologia da informação, infraestrutura",negro,6,10003879,Rafael Figueredo Guimaraes,22.0,22.0,2.44,46.44
+695,"analista, tecnologia da informação, infraestrutura",pcd,1,10005225,Vinicius Lopes Simoes,25.0,24.0,9.35,58.35
+696,"analista, tecnologia da informação, infraestrutura",pcd,2,10011671,Rafael Faria Fernandes,18.0,24.0,6.14,48.14
+697,"analista, tecnologia da informação, infraestrutura",pcd,3,10000395,Ricardo Raposo Oliveira Souza,19.0,20.0,7.75,46.75
+698,"analista, tecnologia da informação, infraestrutura",pcd,4,10003947,Wagner Santa na,16.0,21.0,8.56,45.56
