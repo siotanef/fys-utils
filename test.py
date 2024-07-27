@@ -39,10 +39,10 @@ def int2roman(num:int):
         
     return roman
 
-def get_topic_pattern(it:Iterable[int], sep:str=r'\.',):
+def get_topic_pattern(it:Iterable[int], sep:str='\.',):
     return sep.join(str(i) for i in it)
 
-def get_next_topics(current:str=None, sep:str=r'\.',):
+def get_next_topics(current:str=None, sep:str='\.',):
     if not current:
         return {1: get_topic_pattern([1,])} 
     
@@ -62,9 +62,9 @@ def get_next_topics(current:str=None, sep:str=r'\.',):
 
 def get_breakdown(
     text:str,
-    sep:str=r'\.',
-    prefix:str=r'\s',
-    suffix:str=r'\.?\s',
+    sep:str='\.',
+    prefix:str='\s',
+    suffix:str='\.\s',
     threshold:int=3,
 ):
     output = ''
@@ -88,24 +88,23 @@ def get_breakdown(
                 if next is None or start < next:
                     next = start
                     current = topic
-                    l = level
 
         if next is None:
-            if strikes < threshold:
+            if strike < threshold:
                 current = next_topic
-                strikes += 1
+                strike += 1
                 continue
             
             next = len(text)                
         else:
-            strikes = 0
+            strike = 0
             next += index
 
         if previous_level:
             output += (previous_level * '\t') + text[index:next].strip() + '\n'
         
         index = next
-        previous_level = l
+        previous_level = level
 
     return output
     
@@ -122,24 +121,23 @@ def main():
 
     with open(filepath) as handle:
         text = re.sub(
-            '[\\n\\t\\s]+',
+            '[\n\t\s]+',
             ' ',
             handle.read(),
         )
     
-    char_upper = 'A-Z,\u00C0-\u00D6\u00D8-\u00DE'
-    char_lower = 'a-z,\u00E0-\u00F6\u00F8-\u00FF'
-    char_numbers = '\\d'
-    char_symbols = '\\_\\-'
-    char_space = '\\s'
+    char_upper = r'A-Z\u00C0-\u00D6\u00D8-\u00DE'
+    char_lower = r'a-z\u00E0-\u00F6\u00F8-\u00FF'
+    char_numbers = r'\d'
+    char_symbols = '\_\-'
+    char_space = '\s'
 
     topics = []
     char_topic_start = char_upper + char_numbers + char_symbols
     char_topic = char_topic_start + char_space
 
-    pattern_main = f'([{char_topic_start}][{char_topic}]+)\\:\\s*1[\\.\\s]'
+    pattern_main = f'([{char_topic_start}][{char_topic}]+)\:\s*1\.'
     matches = re.finditer(pattern_main, text)
-
 
     if matches is None:
         raise ValueError('No topic matches for "{filepath}".')
@@ -150,14 +148,13 @@ def main():
         for index, i in enumerate(indexes[:-1])
     }
 
-
-    text = '\n'.join(f'{int2roman(index)}. {key}\n{val}' for index, (key,val,) in enumerate(topics.items(), 1))
+    text = '\n'.join(f'* {key}\n{val}' for key,val in topics.items())
     #print(text)
     print(indexes)
-    #print(topics[list(topics.keys())[0]])
+    print(topics[list(topics.keys())[0]])
 
 
-    with open(re.sub('(\\.txt)$', '.out', filepath), 'w') as handle:
+    with open(re.sub('(\.txt)$', '.out', filepath), 'w') as handle:
         handle.write(text)
 
 
