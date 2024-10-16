@@ -1,3 +1,5 @@
+# python cebraspe_topics.py <filename>.txt
+
 import os
 import sys
 import re
